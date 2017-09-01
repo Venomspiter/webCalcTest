@@ -1,6 +1,8 @@
 body{
 	background-color: gray;
+	
 }
 img{
 	display: none;
+	margin: 50px;
 }
