@@ -1,6 +1,7 @@
 $(document).ready(function() {
-	$("#button").click(function() {
+	$("p").click(function() {
 		$("img").slideDown("slow");
 		$("h2").toggle();
+		$("p").hide();
 	});
 });
