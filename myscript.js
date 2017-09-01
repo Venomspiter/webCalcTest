@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	$("#Button").click(function() {
+	$("#button").click(function() {
 		$("img").slideDown("slow");
 	});
 });
