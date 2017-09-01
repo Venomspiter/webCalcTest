@@ -1,8 +1,9 @@
 body{
 	background-color: gray;
-	
+}
+h2{
+	display: none;
 }
 img{
 	display: none;
-	margin: 50px;
 }
