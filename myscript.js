@@ -1,6 +1,5 @@
 $(document).ready(function() {
-	$("h1").click(function() {
-		$("img").slideToggle("slow");
-		$("p").css("color","blue")
+	$("#Button").click(function() {
+		$("img").slideDown("slow");
 	});
 });
