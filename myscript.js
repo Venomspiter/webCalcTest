@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	var x = 0;
-	$("p").click(function() {
+	$("#button").click(function() {
 		$("#Q1").slideDown("slow");
 		$("h2").toggle();
 		$("p").hide();
